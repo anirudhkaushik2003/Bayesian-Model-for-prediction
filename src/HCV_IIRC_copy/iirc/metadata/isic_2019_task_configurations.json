@@ -1,0 +1,121 @@
+{
+    "configuration_0": {
+      "task_0": [
+        "melanocytic",
+        "non_melanocytic"
+      ],
+      "task_1": [
+        "Melanoma",  
+        "Melanocytic_nevus" ,
+        "Basal_cell_carcinoma",
+        "Actinic_keratosis",
+        "Benign_keratosis",
+        "Dermatofibroma",
+        "Vascular_lesion",
+        "Squamous_cell_carcinoma"
+      ]
+    },
+    "configuration_1": {
+      "task_0": [
+        "melanocytic",
+        "non_melanocytic"
+      ],
+      "task_1": [
+        "Melanoma",  
+        "Melanocytic_nevus" ,
+        "Basal_cell_carcinoma"
+      ],
+      "task_2": [
+        "Actinic_keratosis",
+        "Benign_keratosis",
+        "Squamous_cell_carcinoma"
+      ],
+      "task_3": [
+        "Dermatofibroma",
+        "Vascular_lesion",  
+        "Melanocytic_nevus" 
+      ],
+      "task_4": [
+        "Basal_cell_carcinoma",
+        "Vascular_lesion",  
+        "Melanocytic_nevus" 
+      ],
+      "task_5": [
+        "Melanoma",  
+        "Vascular_lesion",  
+        "Squamous_cell_carcinoma"
+      ],
+      "task_6": [
+        "Benign_keratosis",
+        "Dermatofibroma",
+        "Basal_cell_carcinoma"
+      ],
+      "task_7": [
+        "Vascular_lesion",  
+        "Squamous_cell_carcinoma",
+        "Benign_keratosis"
+      ]
+    },
+    "configuration_2": {
+      "task_0": [
+        "melanocytic",
+        "non_melanocytic"
+      ],
+      "task_1": [
+        "Melanoma",  
+        "Melanocytic_nevus" 
+      ],
+      "task_2": [
+        "Actinic_keratosis",
+        "Benign_keratosis"
+      ],
+      "task_3": [
+        "Dermatofibroma",
+        "Squamous_cell_carcinoma"
+      ],
+      "task_4": [
+        "Basal_cell_carcinoma",
+        "Vascular_lesion"
+      ]
+    },
+    "configuration_3": {
+      "task_0": [
+        "melanocytic",
+        "non_melanocytic"
+      ],
+      "task_1": [
+        "Melanoma",  
+        "Melanocytic_nevus" 
+      ],
+      "task_2": [
+        "Basal_cell_carcinoma",
+        "Benign_keratosis"
+      ],
+      "task_3": [
+        "Actinic_keratosis",
+        "Squamous_cell_carcinoma"
+      ],
+      "task_4": [
+        "Dermatofibroma",
+        "Vascular_lesion"
+      ]
+    },
+    "configuration_4": {
+      "task_0": [
+        "Melanoma",  
+        "Melanocytic_nevus" 
+      ],
+      "task_1": [
+        "Basal_cell_carcinoma",
+        "Benign_keratosis"
+      ],
+      "task_2": [
+        "Actinic_keratosis",
+        "Squamous_cell_carcinoma"
+      ],
+      "task_3": [
+        "Dermatofibroma",
+        "Vascular_lesion"
+      ]
+    }
+  }
